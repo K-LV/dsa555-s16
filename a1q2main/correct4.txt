@@ -1,0 +1,102 @@
+101 101
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X     X       X       X   X   X   X           X          oooooooooX   X           X     X           X
+X XXX X XXXXX X XXX X X X X X X X X X XXXXXXXXX XXXXXXXXXoXXXXXXXoX XXX XXXXX X XXX X XXX XXXXXXXXX X
+X   X X   X X   X   X   X X X   X   X       X     XoooooooXoooXoooX   X   X   X X   X     X       X X
+XXX X XXX X XXXXX XXXXXXXXX XXXXXXXXXXXXXXX X XXXXXoXXXXXXXoXoXoXXXXX XXX X XXXXX XXXXXXXXX XXXXX X X
+X   X   X       X         X X   X     X   X   X XoooXoooooooXoooXoooX   X X     X X         X     X X
+X XXXXX XXXXXXX XXXXXXXXX X X X X XXX X X XXXXX XoXXXoXXXXXXXXXXXoXoX X X XXXXX X XXX XXXXX XXXXX X X
+X     X     X           X X   X X   X   X       XoooXoXoooooooooooXoX X X X   X       X   X X   X X X
+XXXXX X XXX X XXXXXXXXX X XXXXX XXX XXXXXXX XXXXX XoXoXoXXXXXXXXXXXoXXX X X XXXXXXXXXXX X XXX X X X X
+X     X   X X X     X   X   X   X   X   X   X   X XoXoooXoooooX   XoX   X X X   X       X   X X X X X
+X XXXXXXX X X X XXX XXXXX XXX XXX XXXXX X XXX X X XoXXXXXoXXXoXXX XoX X X X X X X XXXXXXXXX X X XXX X
+X X       X   X   X     X X   X X       X   X X X XoooooooXoooX   XoX X X X   X X         X   X   X X
+X XXX XXXXX XXXXX XXXXX X X XXX XXXXX X XXX X X XXX XXXXXXXoXXX XXXoX XXX XXXXX XXXXXXXXX XXXXXXX X X
+X   X X   X X   X X   X   X   X       X   X X X   X XoooooooXoooooXoX   X   X         X   X     X X X
+XXX XXX X X X X X XXX XXX XXX XXXXXXX XXXXX X XXX X XoXXXXXXXoXXXoXoX X XXX X XXXXX XXX XXX XXXXX X X
+X X   X X X X X X   X X   X X X     X X   X X X   X XoooXoooXoooXoooX X X   X     X X   X       X X X
+X XXX X X XXX X XXX X X XXX X X XXX XXX X X X X XXX XXXoXoXoXXXoXXXXX X X XXX XXX X X XXX XXXXX X X X
+X   X X X     X   X X       X X   X   X X X X X   X   XoooXoooXoXoooX X X   X   X X X X     X X X   X
+X X X X XXXXXXXXX X X XXXXX X X X XXX X X X X XXX XXXXXXXXX XoXoXoXoXXX XXX XXX X X X XXXXX X X XXX X
+X X X X     X X   X X X   X X X X   X   X   X   X X       X XoXoooXoooX   X   X X X X   X     X X   X
+X X X XXXXX X X XXX XXX X XXX XXXXX XXXXXXX XXX X X XXXXX X XoXXXXXXXoX X XXX XXX X XXX XXXXXXX X XXX
+X X X X     X X X       X           X   X     X X   X   X X XoooooX  oX X     X   X X X X   X   X X X
+X X X X XXXXX X XXXXX XXXXXXXXXXXXXXX X XXXXXXX XXXXX XXX XXX XXXoXXXoX XXXXXXX XXX X X X X X XXX X X
+X X X X   X   X     X       X X       X         X   X   X   X   XoooXoX   X     X X   X X X   X   X X
+X X X XXX X XXXXXXX X XXXXX X X XXXXXXXXXXXXXXXXX X X X XXX XXX XXXoXoXXX X XXXXX XXX X X XXXXX XXX X
+X X X     X X   X   X X   X   X     X       X     X X X X   X X   XoXoooX   X X       X X     X   X X
+X X XXXXXXX X X X XXX X X X XXXXX X XXX XXX X XXX XXX X X XXX X XXXoXXXoXXXXX X XXXXXXX XXXXX XXX X X
+X X         X X X X   X X X X   X X   X   X   X X     X X X X   XoooX XoooooX X X       X       X X X
+XXX X XXXXXXX X X X XXX X XXX X XXXXX XXX XXXXX XXXXXXX X X X XXXoXXX XXXXXoX X X XXXXXXX XXXXXXX X X
+X   X X       X X X   X X X   X       X   X         X   X X   XoooX     XoooX   X   X     X     X X X
+X XXXXX XXXXXXX X XXXXX X X XXXXXXXXXXX XXX XXXXX XXX XXX XXXXXoXXX XXXXXoXXX XXXXX XXXXX X XXX X X X
+X X   X       X   X     X   X     X     X X     X X   X   XoooXoX   XoooooX   X   X     X     X X X X
+X X X XXXXXXX XXXXX XXXXXXXXXXXXX X XXXXX X XXX X X XXX XXXoXoXoX X XoXXXXXXXXX X XXXXX X XXXXX X X X
+X X X       X X         X   X     X     X     X X X X   XoooXoooX X XoX  oooooX X       X X   X   X X
+X X XXXXXXX X XXXXXXXXX X X X XXXXXXXXX XXXXXXX X X X XXXoXXXXXXX XXXoX XoXXXoX XXXXXXXXXXX X XXX X X
+X     X   X X X         X X X         X X       X X X XoooX         XoX XoX XoX X           X   X   X
+XXXXX X X X X X XXXXXXX X X XXXXXXXXX X X XXXXX XXX X XoXXXXXXX XXX XoXXXoX XoX X XXXXXXXXXXX X XXXXX
+X   X X X   X X X   X X X X         X     X   X X   X XoXoooooX   X  oooooX XoX   XoooooXoooX X     X
+X X XXX XXX X X X X X X X XXXXXXXXX XXXXXXX XXX X XXX XoXoXXXoXXXXXXXXXXXXX XoXXX XoXXXoXoXoX XXXXX X
+X X     X   X X   X X   X     X     X     X     X     XoooX XoooXooo  XoooX  oooX XoooXoooXoX XoooooX
+X XXXXXXXXXXX XXXXX XXXXXXXXX X XXXXX XXX X XXXXXXXXXXX XXX XXXoXoXoXXXoXoXXXXXoXXXXXoXXXXXoX XoXXXoX
+X     X     X     X       X   X       X   X     X   X   X   X XoooXoXoooXoooooXoooooooXoooooX XoXoooX
+XXXXX X XXX XXXXX XXX XXX X XXXXXXXXXXX XXXXXXX X X X XXX X X XXXXXoXoXXXXXXXoXXXXXXXXXoXXXXXXXoXoXXX
+X     X   X     X   X X X   X X     X   X     X X X X X   X       XoooXoooooXoooXoooooXoooooooooXoX X
+X XXX XXX X XXXXXXX X X XXXXX X XXX X XXX XXXXX X XXX X XXXXXXXXX XXXXXoXXXoX XoXoXXXoXXXXXXXXXXXoX X
+X X X X X X   X     X X           X X   X       X       X   X     XoooooXoooX XoooXoooXoooX    oooX X
+X X X X X XXX X XXXXX XXXXXXXXXXX X XXX X XXXXXXX XXXXXXX XXX XXXXXoXXXXXoXXXXX XXXoXXXoXoXXXXXoXXX X
+X X   X X   X X   X   X   X     X X   X X X         X   X     XoooooXoooXoooooX   XoooooXoooooXoooooX
+X X XXX XXX X XXX X XXX X X XXX XXX X X X XXXXXXXXXXX X X XXXXXoX XXXoXoXXXXXoXXXXXXXXXXXXXXXoXXXXXoX
+X X   X   X X     X X   X X   X     X X X         X   X X     XoX XoooXoooooXoooooooXoooXoooooX   XoX
+X XXX XXX X XXXXXXX X XXX X X XXXXXXX X XXXXXXXXX X XXX XXXXX XoXXXoXXXXXXXoXXXXXXXoXoXoXoXXXXX XXXoX
+X   X     X   X   X   X   X X X     X X       X X X X X   X   Xooooo      XoXoooX XoXoXoooXooo  XoooX
+XXX XXXXX XXX X XXXXXXX XXX X X XXX X XXXXXXX X X X X XXX XXXXXXXXXXXXXXX XoXoXoX XoXoXXXXXoXoXXXoXXX
+X   X     X   X X     X   X X X X X X     X X X   X X     X       X X     XoooXoX XoooX   XoXoooXoX X
+X XXX XXXXX XXX X XXX XXX XXX X X X XXXXX X X X XXX X XXXXX XXXXX X X XXXXXXXXXoX XXXXX X XoXXXoXoX X
+X X   X     X   X X X     X   X   X     X   X X     X X     X   X X         XoooX X     X XoXoooXoooX
+X X XXX XXXXXXX X X XXXXXXX XXXXXXXXX XXXXX X XXXXXXX X XXXXX X X X XXXXXXXXXoXXX X XXXXX XoXoX XXXoX
+X X   X       X   X         X       X       X X     X   X   X X X X XoooooooooX       X   XoXoX XoooX
+X XXXXXXXXXXX X XXXXXXXXX X X XXXXX XXXXXXXXX X XXXXXXXXX X XXX X XXXoXXXXXXXXX XXXXXXX XXXoXoXXXoXXX
+X X           X X     X   X X   X X           X X         X     X XoooXoooX     XoooX   XoooXoooooX X
+X X XXXXXXXXXXX X XXX X XXX XXX X XXXXXXXXXXXXX X XXX XXXXXXXXX X XoXXXoXoXXXXXXXoXoX XXXoXXXXXXXXX X
+X X X         X X   X   X X   X X       X       X   X     X     X XoooooXoXoooooooXoXoooooX   X  oooX
+X X X XXXXX XXX X X XXXXX XXX X X XXXXX XXXXX X XXX XXXXX X XXXXX XXXXX XoXoXXXXXXXoXoXXXXXXX X XoXoX
+X   X X X   X   X X   X       X X     X       X X     X   X X     XoooX Xooo  XoooooXoooooooX   XoXoX
+X XXX X X X X XXXXX X X XXXXXXX XXX X XXX XXXXXXX XXXXX XXXXX XXXXXoXoXXXXXXXXXoXXXXXXXXXXXoXXXXXoXoX
+X X X   X X X X   X X X X     X   X X   X X       X X   X     X  oooXoooooooooooX   X   X  oooooooXoX
+X X XXX X XXX X X XXX X X X X XXX XXXXX X X XXXXXXX X XXX XXXXX XoXXX XXXXXXXXXXX X X X XXXXXXXXXXXoX
+X X   X X X   X X     X X X X   X   X   X X   X   X X   X   X X XoX   X       X   X   X     X   XoooX
+X X XXX X X XXX XXXXXXX XXX XXXXXXX X XXXXXXX X X X XXX XXX X X XoXXXXX XXXXX X XXXXXXXXXXX X X XoXXX
+X X     X     X X     X X   X   X   X         X X   X   X X X   XoooXoooooooX X X         X X X XoooX
+X X XXXXXXXXX X X XXX X X X X X X XXX XXXXXXXXX XXXXX X X X XXXXX XoXoXXXXXXX X XXXXXXX XXX X XXXXXoX
+X X     X   X   X X   X   X X X   X   X         X     X   X X   X XoooX   X   X   X     X   Xooo  XoX
+X XXXXXXX X XXXXX X XXXXXXX X XXXXX XXX XXXXXXX X XXXXXXX X X X XXXXX X X X XXXXX X XXXXX XXXoXoX XoX
+X   X     X X     X X     X X X   X X         X X       X X X X     X X X X   X   X X     XoooXoX XoX
+XXX X XXXXX X XXXXX XXX X XXX X XXX X XXXXXXX X XXXXXXX XXX X XXXXX XXX X XXX X XXX X XXXXXoXXXoXXXoX
+X X   X   X   X   X     X     X     X       X X X     X   X   X   X     X   X   X   X X   XoooXoooXoX
+X XXXXX XXXXXXXXX XXXXXXXXXXXXX XXXXXXXXXXXXX XXX XXX XXX XXXXX X XXXXXXXXX X XXX XXX X X XXXoXXXoXoX
+X X     X       X             X         X   X X   X       X     X   X   X   X   X X   X X   XoX XoooX
+X X X XXX XXX X X XXXXXXXXX X XXXXXXXXX X X X X XXXXXXXXX X XXXXXXX X X X XXXXX X X XXX X XXXoX XXXXX
+X X X     X   X X X         X X   X     X X X X       X X X X       X X   X   X   X   X X  oooX     X
+X X XXXXXXX XXX X X XXXXXXXXX X XXX XXXXX X X XXXXXXX X X XXX XXXXX X XXXXX X XXX XXX XXXXXoXXX XXX X
+X       X X X   X X X   X   X X     X     X         X X       X   X X X     X   X X X     XoooX XoooX
+X XXXXX X X X XXX X X X X X X X XXXXX XXXXX XXXXXXX X XXXXXXXXX X X X XXXXXXX XXX X XXXXX XXXoXXXoXoX
+X X   X   X X   X X   X X X X X   X       X X     X X           X X X   X   X         X   X XoooXoXoX
+XXX X XXXXX XXX XXXXX X XXX X XXX XXXXXXX XXX XXX X XXXXXXXXX XXX X XXX X X XXXXXXXXX X XXX XXXoXoXoX
+X   X       X       X X X   X   X     X   X   X   X   X X   X X   X   X X X         X X   X   XoXoXoX
+X XXXXXXXXXXXXXXXXX XXX X X XXX XXXXX X X X XXX XXXXX X X X XXX XXXXX X X XXXXXXXXX XXXXX X XXXoXoXXX
+X X       X   X   X     X X   X     X   X X X X   X X   X X     X   X X   X       X   X   X   XoXoooX
+X X XXXXX X X XXX XXXXXXX XXX XXXXX XXXXXXX X XXX X XXX X XXXXXXX X X XXXXX XXXXX XXX X XXXXX XoXXXoX
+X   X X   X X   X       X   X X   X         X   X X   X X   X   X X   X       X X   X X X     XoooXoX
+X XXX X X X XXX X XXX X XXX X X X XXXXXXXXXXX XXX X XXX XXX XXX X XXXXX XXXXX X XXX X X XXX X XXXoXoX
+X X   X X X X   X X   X     X X X   X     X   X   X       X   X     X   X     X     X   X   X   XoXoX
+X XXX X X X X XXXXX XXXXXXXXX X XXXXX XXX X X X XXXXXXXXXXXXX XXXXXXX XXX XXXXXXXXXXXXXXX XXXXXXXoXoX
+X   X X X X X   X   X     X     X       X X X X             X         X   X           X   X     XoXoX
+XXX X X X X XXX X XXX XXX XXXXXXX XXXXXXX X X X XXXXXXXXXXX XXXXXXXXXXX XXX XXXXXXX X X X X XXX XoXoX
+X     X X X X X X       X   X       X   X   X   X     X   X     X       X   X   X   X X X X X   XoooX
+X XXXXX XXX X X XXX XXXXXXX X XXXXXXX X XXXXXXXXX XXX X X XXXXX X XXXXX X XXXXX X XXXXX X X X XXXXX X
+X X     X   X X   X X     X   X       X         X X   X X     X   X   X X X     X X     X   X X   X X
+X X XXXXX XXX XXX XXX XXX XXXXX XXXXXXXXXXXXXXX X X XXX XXXXX XXXXX X XXX X XXX X X XXXXXXXXX X X X X
+X X             X       X                     X   X         X       X       X   X           X   X   X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
