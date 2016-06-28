@@ -1,12 +1,36 @@
+/*********************************************************************/
+/*                                                                   */
+/* Tester for DSA555-s16 assignment 1, question 2                    */
+/* Version 1.1                                                       */
+/* 1.1 fixes: allows paths that are correct but not same as mine     */
+/*            changed path output name to test#result.txt            */
+/*                                                                   */
+/* copy your file a1q2 to this folder.  There are many data files    */
+/* and the maze.cpp/maze.h files had to be updated to enable some    */
+/* further testing.  The update should have no effect on your code   */
+/*                                                                   */
+/* To compile:                                                       */
+/*                                                                   */
+/*      g++ a1q2main.cpp maze.cpp a1q2.cpp -std=c++0x                */
+/*                                                                   */
+/* Aside from indicating if you passed the 6 tests, it will also     */
+/* produce a .txt file.                                              */
+/* You can see your maze run here:                                   */
+/*                                                                   */
+/* http://seneca-dsa555.github.io/dsa555-s16/                        */
+/* use the browse button to select the test#result.txt file  for     */
+/* the test.  it will animate your path                              */
+/* green dot is start point, red is end point.                       */
+/*********************************************************************/
+
 #include "maze.h"
 #include <string>
 #include <iostream>
 #include <fstream>
 using namespace std;
 #define VERBOSE 0
-//this is not the real tester
-//compile this with your program:
-//g++ maze.cpp a1q2.cpp mazetest.cpp;
+
+
 int findPath (Maze& theMaze, const Coord& start, const Coord& end, Coord path[]);
 void printPath(const char* fname, Coord path[],int n);
 void printPath2(const char* fname, Coord path[],int n);
